@@ -8,7 +8,6 @@ Juss is an innovative project that diacritizes poems, analyzes their structure a
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -33,16 +32,6 @@ Juss is an innovative project that diacritizes poems, analyzes their structure a
 - **Generate a Story**: Convert your favorite poem into a short narrative format.
 - **Get Explanations**: Learn more about the themes and meanings with generated explanations.
 - **Create Slideshows**: Convert poems into engaging image slideshows by uploading relevant images.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and create a pull request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
 
 ## License
 
