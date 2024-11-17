@@ -7,7 +7,6 @@ Juss is an innovative project that diacritizes poems, analyzes their structure a
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
 - [License](#license)
 
 ## Features
@@ -23,15 +22,6 @@ Juss is an innovative project that diacritizes poems, analyzes their structure a
 
 - **Python**: Primary programming language for implementing the project.
 - **ALLAM LLM**: Language model utilized for diacritization, generation, and analysis of poetry.
-
-## Usage
-
-- **Diacritize a Poem**: Input your poem in the designated field to add diacritical marks.
-- **Generate a Poem**: Provide a theme or prompts, and watch Juss generate a new poem.
-- **Analyze Meter**: Upload a poem or input text to analyze its rhythmic structure.
-- **Generate a Story**: Convert your favorite poem into a short narrative format.
-- **Get Explanations**: Learn more about the themes and meanings with generated explanations.
-- **Create Slideshows**: Convert poems into engaging image slideshows by uploading relevant images.
 
 ## License
 
